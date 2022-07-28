@@ -4,7 +4,7 @@ python basic game made with help of turtal class
 
 
 
-<a href="https://https://replit.com/@aditya0666/turtalgame?v=1">**Visit Now** 🚀</a>
+<a href="https://replit.com/@aditya0666/turtalgame?v=1">**Visit Now** 🚀</a>
 
 
 <img src="https://hosting.photobucket.com/images/i/aditya4452/WhatsApp_Image_2022-07-28_at_7.42.50_PM.jpeg?width=320&height=320&fit=bounds" ></img>
